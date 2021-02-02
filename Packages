@@ -1,0 +1,13 @@
+Package: com.Derpiebeast.newrepo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Derpiebeast <email@gmail.com>
+Filename: /newpackage.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: A tweak for my repository
+Author: CrazyBlue <email@gmail.com>
+Name: newpackage
